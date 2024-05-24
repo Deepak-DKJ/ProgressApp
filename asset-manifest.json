@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ProgressApp/static/css/main.6cc3afdb.css",
+    "main.js": "/ProgressApp/static/js/main.aefefda7.js",
+    "static/js/453.8ab44547.chunk.js": "/ProgressApp/static/js/453.8ab44547.chunk.js",
+    "static/media/logo.svg": "/ProgressApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ProgressApp/index.html",
+    "main.6cc3afdb.css.map": "/ProgressApp/static/css/main.6cc3afdb.css.map",
+    "main.aefefda7.js.map": "/ProgressApp/static/js/main.aefefda7.js.map",
+    "453.8ab44547.chunk.js.map": "/ProgressApp/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cc3afdb.css",
+    "static/js/main.aefefda7.js"
+  ]
+}
